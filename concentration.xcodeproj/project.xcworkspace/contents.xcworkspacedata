@@ -2,6 +2,12 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:../concentration/concentration.swift">
+   </FileRef>
+   <FileRef
+      location = "group:project.pbxproj">
+   </FileRef>
+   <FileRef
       location = "self:">
    </FileRef>
 </Workspace>
